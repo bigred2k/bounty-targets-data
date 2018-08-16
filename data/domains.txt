@@ -144,9 +144,6 @@ graballstars.com
 hub.grab.com
 manage.grab.co
 p.grabtaxi.com
-github.com
-api.github.com
-gist.github.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.ca
